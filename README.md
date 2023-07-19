@@ -3,7 +3,8 @@ modern-day photos of historical locations
 
 # Filenames
 
-The photo filenames should not contain spaces (since URLs on the web can't have spaces).
+* The photo filenames should not contain spaces (since URLs on the web can't have spaces).
+* Filenames should be all lowercase
 
 Photos that correspond with an existing observation (click the point on [the military lots map](https://backbone-ridge.github.io/military-lots/) to get the lot, corner, direction, chains, links info) should use a specific filename based on the observation point, following one of these structures:
 
@@ -30,8 +31,6 @@ A photo taken 7 chains and 22 links east of the northwest corner of Ovid lot 10 
 ```
 ovid-10nw-e7.22.jpg
 ```
-
-**Photo filenames should be all lowercase**
 
 # Multiple photos of the same place
 
