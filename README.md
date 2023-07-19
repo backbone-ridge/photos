@@ -1,5 +1,12 @@
 # Photos
-modern-day photos of historical locations
+Modern-day photos of historical locations.
+
+Here is a demo of how to upload a photo to this repository.  (Note that you must be granted "write" permissions in order to do this.)
+
+
+https://github.com/backbone-ridge/photos/assets/3355358/2c7bc415-3da8-494b-940b-255f351d1d80
+
+
 
 # Filenames
 
