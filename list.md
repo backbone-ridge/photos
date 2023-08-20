@@ -1,4 +1,5 @@
 # List Photos
 
-Ovid
-{{ "ovid/" | list_photos }}
+## Ovid
+
+{{ "ovid" | list_photos }}
