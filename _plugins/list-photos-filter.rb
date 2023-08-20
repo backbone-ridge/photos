@@ -1,8 +1,8 @@
 module Jekyll
   module ListPhotos
-    def list_photos(town, type="*.jpg")
+    def list_photos(town, filetype="jpg")
       files = Dir
-        .glob(town + '/' + type)
+        .glob('/' + town + '/*.' + filetype)
         .select { |e| File.file? e }
         .join(",")
     end
