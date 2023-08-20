@@ -1,10 +1,5 @@
 # List Photos
 
-## Ovid
-
-{{ "ovid" | list_photos }}
-
-
-## List folders
-
-{{ "/" | list_folders }}
+{% for i in site.static_files %}
+  {{ i.path }}
+{% endfor %}
