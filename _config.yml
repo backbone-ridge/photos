@@ -3,3 +3,6 @@ kramdown:
   typographic_symbols:
       ndash: --
       mdash: ---
+
+plugins:
+  - jekyll-exif-data
