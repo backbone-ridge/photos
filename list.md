@@ -1,3 +1,3 @@
 {% for i in site.static_files %}
-  {{ i.path }}, {{ i.path | remove_first: "/" | exif: 'width'}}
+  {{ i.path }}
 {% endfor %}
