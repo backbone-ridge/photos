@@ -10,6 +10,8 @@ https://github.com/backbone-ridge/photos/assets/3355358/2c7bc415-3da8-494b-940b-
 
 # Filenames
 
+** THIS SECTION NEEDS TO BE UPDATED!!! **
+
 * The photo filenames should not contain spaces (since URLs on the web can't have spaces).
 * Filenames should be all lowercase
 
