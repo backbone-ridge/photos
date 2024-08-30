@@ -21,11 +21,10 @@ Here is a demo of how to upload a photo to this repository.  (Note that you must
     - Optionally, add a word or two to distinguish photos taken near the same location.
 - Use hyphens, not spaces.
 - For consistency, lowercase is preferred.
-
-Examples:
-- 53nw.jpg
-- 53nw-winter.jpg
-- 53nw-schoolhouse.jpg
+- Examples:
+    - 53nw.jpg
+    - 53nw-winter.jpg
+    - 53nw-schoolhouse.jpg
 
 ## 3. Upload to GitHub
 
@@ -34,7 +33,7 @@ Examples:
 ## 4. Update the photo spreadsheet
 
 - Go to the [Backbone Ridge photos spreadsheet](https://docs.google.com/spreadsheets/d/1ShUDiRpW_t_C6RUwkKxcUR4WKdkfWqF0mEbiWhCGDX0/edit?usp=sharing)
-- Enter the photo information in a new row
+- Enter the photo info (town and filename) in a new row.
 - To get the coordinates of a photo, click the location on the map at [https://backbone-ridge.github.io/military-lots/](https://backbone-ridge.github.io/military-lots/)
     - The coordinates will be silently copied to the clipboard.
     - Paste (CTRL-V) into the longitude cell in the spreadsheet.
