@@ -35,14 +35,14 @@ Note that you must be granted permissions in order to add photos to this reposit
 
 - Go to the [Backbone Ridge photos spreadsheet](https://docs.google.com/spreadsheets/d/1ShUDiRpW_t_C6RUwkKxcUR4WKdkfWqF0mEbiWhCGDX0/edit?usp=sharing)
 - Enter the photo info (town and filename) in a new row.
-- To get the coordinates of a photo, click the location on the map at [https://backbone-ridge.github.io/military-lots/](https://backbone-ridge.github.io/military-lots/)
+- To get the coordinates of a photo, click the location on the [Military Lots map](https://backbone-ridge.github.io/military-lots/)
     - The coordinates will be silently copied to the clipboard.
     - Paste (CTRL-V) into the longitude cell in the spreadsheet.
       (Both the longitude and latitude coordinates will be pasted)
 - Add a brief title describing the photo.
 
 ## 5. Check the photos on the map
-- Go to [https://backbone-ridge.github.io/military-lots/](https://backbone-ridge.github.io/military-lots/)
+- Go to the [Military Lots map](https://backbone-ridge.github.io/military-lots/)
 - Press CTRL-SHIFT-R to reload the page.
 - The updated photo points should appear on the map.  Click a point to view the photo.
 
