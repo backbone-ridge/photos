@@ -2,10 +2,11 @@
 
 This repo contains photos to be included on the military-lots map.
 
-Here is a demo of how to upload a photo to this repository.  (Note that you must be granted "write" permissions in order to do this.)
+In addition to the instructions below, here are a couple of demo videos:
+- [Adding a photo](https://youtu.be/NpM8zNQva7k)
+- [Deleting a photo](https://youtu.be/B2lOBSRf4JU)
 
-(video will go here)
-
+Note that you must be granted permissions in order to add photos to this repository or update the spreadsheet.
 
 ## 1. Adjust the image size
 
